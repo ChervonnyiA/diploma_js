@@ -2,5 +2,6 @@
 
 ## Создание «информационной системы для предварительного бронирования билетов».
 
-Ссылка на GitHub Pages - https://chervonnyia.github.io/diploma_js/
+Ссылка на GitHub Pages - https://chervonnyia.github.io/diploma_js/.
+
 При работе использовался Javascript, HTML, Git.
